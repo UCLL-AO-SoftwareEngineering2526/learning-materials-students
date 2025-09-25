@@ -44,5 +44,5 @@ Non-functional requirements are specific criteria that need to be met that arenâ
 
 The complexity of requirements gathering is often in the process. How can you reliably find out what the software should do when talking to stakeholders? You can read more about that complexity in the following links:
 
-* [Requirements Gathering][https://activecollab.com/blog/project-management/requirement-gathering-process]
+* [Requirements Gathering](https://activecollab.com/blog/project-management/requirement-gathering-process)
 * [Techniques for Requirements Gathering](https://www.jamasoftware.com/requirements-management-guide/requirements-gathering-and-management-processes/11-requirements-gathering-techniques-for-agile-product-teams/)

@@ -12,7 +12,12 @@ This should change to the following:
 
 ## 2. Implementation Details
 
-### 2.1. Setup the PostgreSQL Database on Azure
+
+### 2.1. Setup the PostgreSQL database
+
+There are two alternatives: you can either use PostgreSQL on Azure (option A) or use another PostgreSQL service (option B).
+
+#### 2.1.A. Azure Database for PostgreSQL
 
 Use "Azure Database for PostgreSQL" to set-up a PostgreSQL database. Make sure to create the database via Azure For Students so you can profit from a free PostgreSQL database:
 
@@ -45,6 +50,10 @@ Use "Azure Database for PostgreSQL" to set-up a PostgreSQL database. Make sure t
   * Under "Firewall rules" check the checkbox "Allow public access from any Azure service within Azure to this server".
     This should allow our backend to reach the PostgreSQL server.
 * Click "Review + create"
+
+#### 2.1.B. Using another PostgreSQL hosting service
+
+You are free to choose another alternative instead. One such alternative is [Neon](https://neon.com/).
 
 ### 2.2. Connect to PostgreSQL in production
 

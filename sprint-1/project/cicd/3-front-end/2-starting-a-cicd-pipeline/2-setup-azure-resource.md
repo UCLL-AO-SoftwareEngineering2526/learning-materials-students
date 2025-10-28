@@ -16,7 +16,7 @@ Your GitHub repository should contain the building blocks to start building your
     * Resource Group -> The group you created in [1-set-up-azure-for-students](../../1-azure/1-set-up-azure-for-students.md)
     * Name -> `<team-name>-frontend`
     * Publish -> Code
-    * Runtime stack -> Node 20 LTS
+    * Runtime stack -> Node 22 LTS
     * Operating System -> Linux
     * Region -> West Europe
 

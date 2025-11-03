@@ -18,7 +18,7 @@ Your GitHub repository should contain the building blocks to start building your
     * Publish -> Code
     * Runtime stack -> Node 22 LTS
     * Operating System -> Linux
-    * Region -> West Europe
+    * Region -> West Europe (or another region in western Europe, like "Germany West Central" if "West Europe" is not an option)
 
     <a href="./images/2-1-Azure-Web-App-Project-Details.png">
         <img src="./images/2-1-Azure-Web-App-Project-Details.png">

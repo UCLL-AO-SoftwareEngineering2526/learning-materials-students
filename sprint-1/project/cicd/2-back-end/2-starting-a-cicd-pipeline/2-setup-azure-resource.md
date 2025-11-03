@@ -19,7 +19,7 @@ Your GitHub repository should contain the building blocks to start building your
     * Runtime stack -> Java 21
     * Java web server stack -> Java SE (Embedded Web Server)
     * Operating System -> Linux
-    * Region -> West Europe
+    * Region -> West Europe (or another region in western Europe, like "Germany West Central" if "West Europe" is not an option)
 
     <a href="./images/2-1-Azure-Web-App-Project-Details.png">
         <img src="./images/2-1-Azure-Web-App-Project-Details.png">
